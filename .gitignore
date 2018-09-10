@@ -1,1 +1,6 @@
-*.txt
+/cartoon_dataset
+/cartoon_dataset2_b
+/ILSVRC2012
+/data2
+*.zip
+/数据集
