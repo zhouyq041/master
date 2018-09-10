@@ -3,4 +3,6 @@
 /ILSVRC2012
 /data2
 *.zip
+*.npz
 /数据集
+/mymodel
